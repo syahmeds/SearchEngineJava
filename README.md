@@ -1,5 +1,5 @@
 # SearchEngineJava
-Information Retrieval project - TF-IDF Search Engine
+Information Retrieval project - TF-IDF Search Engine: 
 Moonshot - A moonshot, in a technology context, is an ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. 
 Google has adopted the term moonshot for its most innovative projects, many of which come out of the Google X, the company's semi-secret lab. Our version of a moonshot is to try and emulate Google's most used product, Google Search!
 
